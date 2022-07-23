@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rep1.git/static/css/main.073c9b0a.css",
+    "main.js": "/Rep1.git/static/js/main.dead4b7c.js",
+    "static/js/787.31b33ee7.chunk.js": "/Rep1.git/static/js/787.31b33ee7.chunk.js",
+    "index.html": "/Rep1.git/index.html",
+    "main.073c9b0a.css.map": "/Rep1.git/static/css/main.073c9b0a.css.map",
+    "main.dead4b7c.js.map": "/Rep1.git/static/js/main.dead4b7c.js.map",
+    "787.31b33ee7.chunk.js.map": "/Rep1.git/static/js/787.31b33ee7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dead4b7c.js"
+  ]
+}
